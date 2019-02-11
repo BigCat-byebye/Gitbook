@@ -1,16 +1,1 @@
-aming
-<<<<<<< HEAD
-asdfjlasdjf
-asdfl;ja
-sflasdjf
-adjf;asd
-ffas;dlkfja
-sdfklja;sdf
-asdlfkjjsldfj]sdf'ajsdf
-asdfkljlasdjflajsdlf
-alsdjkflajsdf
-
-=======
-alsdkfjlkasdff
-asjdfl
->>>>>>> aming
+000
