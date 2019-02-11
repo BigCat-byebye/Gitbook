@@ -1,4 +1,5 @@
 aming
+<<<<<<< HEAD
 asdfjlasdjf
 asdfl;ja
 sflasdjf
@@ -9,3 +10,7 @@ asdlfkjjsldfj]sdf'ajsdf
 asdfkljlasdjflajsdlf
 alsdjkflajsdf
 
+=======
+alsdkfjlkasdff
+asjdfl
+>>>>>>> aming
