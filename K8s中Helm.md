@@ -113,7 +113,7 @@ helm install harbor/one_chart --name second_chart
 
 helm仓库常用命令
 helm repo --help
-查看仓库信息
+看仓库信息
 helm repo list
 
 创建仓库
