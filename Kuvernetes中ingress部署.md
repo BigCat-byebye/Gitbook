@@ -1,4 +1,5 @@
 # Ingress
+### 推荐使用helm3进行安装
 即将Ingress是从Kubernetes集群外部访问集群内部服务的入口
 下面以Nginx Ingress 为例子
 
@@ -21,5 +22,5 @@ helm install stable/ingressmonitorcontroller
 ```
 helm create nginx
 # 可以查看到该chart中有ingress部分的定义，修改下即可
-
+```
 
