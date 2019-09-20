@@ -89,3 +89,12 @@ ceph osd pool ls
 rbd ls harbor
 rbd info harbor/foo
 # 查看harbor/foo的信息
+
+radosgw-admin bucket stats --bucket xxxxx
+# 查看bucket信息
+radosgw-admin bucket quota set --bucket xxx --max_size=234234
+# 设置bucket的max_size
+
+s3cmd setacl s3://xxxxx --acl-public 
+# 设置公开的acl权限（anyone）
+```
